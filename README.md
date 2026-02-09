@@ -63,7 +63,7 @@ npm run dev
 ```
 Acesse em `http://localhost:5173`.
 
-🧪 Testes Automatizados
+## 🧪 Testes Automatizados
 O projeto possui uma pirâmide de testes para garantir a confiabilidade:
 
 Testes de Integração e Unitários
