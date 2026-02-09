@@ -95,5 +95,3 @@ npx cypress open
 
 ## 👤 Autora
 Camila – Desenvolvedora Full Stack.
-
-Estudante de Tecnologia em Sistemas para Internet (IFSul).
